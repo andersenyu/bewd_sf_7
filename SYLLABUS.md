@@ -13,8 +13,8 @@ Lesson Topics most likely WILL change as the course progresses.
 | 1 | Setup | Development Work Flow | Wed. 11/19/14| 
 | 2 | Ruby | Data Types, Variables & Conditionals | Mon. 11/24/14|
 | 3 | Ruby | Loops & Collections | Mon. 12/1/14|
-| 4 | Ruby | OOP Intro: Methods, Classes & Objects| Wed. 12/3/14|
-| 5 | Ruby | OOP Continued: Methods, Classes & Sharing Behavior| Mon. 12/8/14|
+| 4 | Ruby | Collections & Apis | Wed. 12/3/14|
+| 5 | Ruby | OOP: Methods, Classes & Sharing Behavior| Mon. 12/8/14|
 | 6 | Framework Intro| MVC Overview | Wed. 12/10/14|
 | 7 | Framework Intro | MVC Overview Continued| Mon. 12/15/14|
 | 8 | Under The Hood|Controller & Routes| Mon. 12/17/14|

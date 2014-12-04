@@ -1,7 +1,7 @@
 require 'pry'
 require 'pry-byebug'
 
-#CLASS - LAB TIME 
+#CLASS - LAB TIME & HOMEWORK
 
 # Write a program that prints 99 bottles of beer on the wall.
 # The song starts with 
