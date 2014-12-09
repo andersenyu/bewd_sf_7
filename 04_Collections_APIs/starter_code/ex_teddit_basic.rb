@@ -11,8 +11,9 @@ require 'pry-byebug'
 #Goals 
 #1 -  Get the story title, category from user from the command line 
 #2 -  Write a conditional that determine upvotes based on the category
-#3 -  Save every story in a collection 
+#3 -  Save every story to collection (each story should be a hash)
 #4 -  Print each stories title, category and upvotes to the screen
+<<<<<<< HEAD
 
 #use hashes
 
@@ -70,3 +71,6 @@ get_the_stories
 
 
 
+=======
+ 
+>>>>>>> eec1c77e1d6bbd8008e6fec826218813af4e481b
